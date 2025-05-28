@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "Mai@gmail.com",
+      "password": "$2a$10$LBdOVst/C2D1ovEMWOLb2eHdWI3791yyLhvoX5YJ6KvLi/.MsGRmu",
+      "name": "Mai",
+      "id": 1
+    },
+    {
+      "email": "sara@gmail.com",
+      "password": "$2a$10$YMFBOsjZvm1fFPecYHoqjuLvVvoH4ZE3xEh6c/glVzzONQMBllaT6",
+      "name": "Sara",
+      "id": 2
+    },
+    {
+      "email": "Seham@gmail.com",
+      "password": "$2a$10$MrB849cr4siwDJ4zB1q6b.KfJSC6OZlTsjsVRTDByuNjsiANJlC6K",
+      "name": "Seham",
+      "id": 4
+    },
+    {
+      "email": "Ahmed@gmail.com",
+      "password": "$2a$10$wELCKxo/J.lUq1yW6FFy3ep0jZ9l.3zMDM9s/SlebwZjcJJqiLxIe",
+      "name": "Ahmed",
+      "id": 5
+    },
+    {
+      "email": "Karima@gmail.com",
+      "password": "$2a$10$ZTkvly8JLzLdVuAN1dL7uO0jdEGkqrkPBZdZYSbXXZ2thBW/wzocG",
+      "name": "Karima",
+      "id": 6
+    },
+    {
+      "email": "Mona@gmail.com",
+      "password": "$2a$10$CnGf5PtGLfxIgHoKKrArbeaUmUs2r32NDbdHLZAohhGCZhbVOWbFu",
+      "name": "Mona",
+      "id": 7
+    },
+    {
+      "email": "mai@gmail.com",
+      "password": "$2a$10$ya9eWTXGKZH9dlQ6KWNC0OplQHIppCQTxHYR5B7rutr5YtpF3TxtG",
+      "name": "mai",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/06/4234df2b-4ac9-46ce-832f-ff5288064ebf_size1920_cropCenter.jpg-768x952.webp",
+      "title": "Bag",
+      "description": "A cute and stylish pink backpack designed for young children. it's perfect for school😍",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/03/165544085-165544085-LS18200623_01-2100.webp",
+      "title": "Disney  Bottle ",
+      "description": "A charming and colorful water bottle designed especially for kids🦄",
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/03/165448286-165448286-AW232062023_01-2100-768x768.webp",
+      "title": " Disney Mermaid Bag",
+      "description": " beautiful little girl this stylish it features ample space for her various books and school supplies.🦄",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/05/165636156-LZ-400-1-MINNIE-MXSS23052223_01-2100-768x1038.webp",
+      "title": "Minnie Mouse  Bottle",
+      "description": "Made from BPA-free, child-safe plastic, this bottle includes a flip-top lid and a built-in straw for easy sipping.🦄",
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/05/165446223-165446223-AW2306062023_02-2100-768x768.webp",
+      "title": "Lunch Bag Medium ",
+      "description": "A fun and practical lunch bag specially designed for kids. Made from high-quality, insulated materials to keep  🦄",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "imageUrl": "https://shopegyptschools.b-cdn.net/wp-content/uploads/2024/05/165435661-165435661-LS18210623_01-2100-1-768x768.webp",
+      "title": "Unicorn lunch bag",
+      "description": "A magical and adorable lunch bag featuring a colorful unicorn design that kids will love! Made with insulated, food-safe materials to keep meals fresh 🦄",
+      "userId": 6,
+      "id": 7
+    }
+  ]
+}
